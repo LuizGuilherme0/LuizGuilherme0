@@ -1,7 +1,7 @@
 <img align="right" height="511em" src="https://raw.githubusercontent.com/gist/LuizGuilherme0/![istockphoto-1043825082-1024x1024](https://user-images.githubusercontent.com/105941143/180509860-96a40d10-7990-42e6-9487-f66512435d96.jpg)
 /githubcard.svg"/>
 <h1 align="left">Hi, I'm Luiz Guilherme, programming C#!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizGuilherme0&color=Green" alt="Profiles views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizGuilherme0&color=blue" alt="Profiles views" /> </p>
 
 - 👀 novice programmer
 
