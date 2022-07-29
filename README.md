@@ -1,19 +1,20 @@
-<img align="right" height="511em" src="https://raw.githubusercontent.com/gist/LuizGuilherme0/![istockphoto-1043825082-1024x1024](https://user-images.githubusercontent.com/105941143/180509860-96a40d10-7990-42e6-9487-f66512435d96.jpg)
-/githubcard.svg"/>
+<img src="https://github.com/LuizGuilherme0.png"/>
+
 <h1 align="left">Hi, I'm Luiz Guilherme, programming C#!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizGuilherme0&color=blue" alt="Profiles views" /> </p>
 
-- 👀 novice programmer
+- 👀 novice programmer (programador iniciante)
 
-- 💞️ learning C#
+- 💞️ learning C# (aprendendo C#)
 
 <br><br>
 
-## 🛠 Mastering Languages
+## 🛠 Mastering 
 
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="LuizGuilherme0-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="LuizGuilherme0 - HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
 </div>
 
 <br><br>  
