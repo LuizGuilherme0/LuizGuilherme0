@@ -1,7 +1,7 @@
-<img src="https://github.com/LuizGuilherme0.png"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<h1 align="left">Hi, I'm Luiz Guilherme, programming C#!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizGuilherme0&color=blue" alt="Profiles views" /> </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Guilherme+Muniz+barreto;I'm+17+years+old;I+from+Brasil,+Sergipe;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 👀 novice programmer (programador iniciante)
 
@@ -21,7 +21,7 @@
  ## ⚙️ About my GitHub
  <div align="left">
   <a href="https://github.com/LuizGuilherme0">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J3ipy&show_icons=true&theme=vision-friendly-dark" alt="LuizGuilherme0's stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizGuilherme0&show_icons=true&theme=vision-friendly-dark" alt="LuizGuilherme0's stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGuilherme0&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="LuizGuilherme's stats"/>
 
 <br><br>
@@ -35,3 +35,4 @@
   
 <div>
   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
