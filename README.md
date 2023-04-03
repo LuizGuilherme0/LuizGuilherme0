@@ -2,15 +2,15 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Guilherme+Muniz+barreto;I'm+17+years+old;I+from+Brasil,+Sergipe;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Guilherme+Muniz+barreto;I'm+17+years+old;I+am+from+Brasil,+Sergipe;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 👀 novice programmer (programador iniciante)
+- 👀 Técnico em Desenvolvimento em Sistemas - (Systems Development Technician)
 
-- 💞️ learning C# (aprendendo C#)
+- 💞️ Cursando Análise em Desenvolvimento de Sistemas - (Studying Analysis in Systems Development)
 
-- 🔥 desenvolvedor front-end iniciante
+- 🔥 Desenvolvedor Front-End Júnior - (Junior Front End Developer)
 
-- 🔭  atualmente estudando phython e javascript
+- 🔭  Atualmente Estudando Python e JavaScript - (Currently Studying Python and JavaScript)
 
 <br><br>
 
@@ -19,9 +19,16 @@
 
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="LuizGuilherme0-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="LuizGuilherme0 - HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
-<img align="center" alt="LuizGuilherme0 - CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
+<img align="center" alt="LuizGuilherme0-Csharp" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="LuizGuilherme0 - HTML5" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
+<img align="center" alt="LuizGuilherme0 - CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
+ <img align="center" alt="LuizGuilherme0 - C#" height="45" width="55" src="https://user-images.githubusercontent.com/105941143/229546660-128460a9-0079-4571-a6f2-de3cb743dd83.png">
+  <img align="center" alt="LuizGuilherme0 - C#" height="45" width="52" src="https://user-images.githubusercontent.com/105941143/229547285-544727ee-e2ca-40a5-a77e-9c02bfa42ce0.png">
+ 
+ 
+
+
+
 
 </div>
 
