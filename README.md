@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Guilherme+Muniz+Barreto;I'm+17+years+old;I+am+from+Brasil,+Sergipe;Systems+Development+Technician;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+HELLO,+MY+NAME+is+Luiz+Guilherme+Muniz+Barreto;I'm+17+years+old;I+am+from+Brasil,+Sergipe;Systems+Development+Technician;+:%29)](https://git.io/typing-svg)
 
 - 👀 Técnico em Desenvolvimento em Sistemas - (Systems Development Technician)
 
